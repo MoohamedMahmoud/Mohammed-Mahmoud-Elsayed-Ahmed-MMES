@@ -3,28 +3,28 @@
 ### Data Science & Machine Learning Enthusiast | Computer Science Graduate | Python Developer
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_NEW_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=moohamedmahmoud&label=Profile%20Views&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science graduate with a strong interest in **Data Science, Machine Learning, and AI**.
+I'm a Computer Science graduate passionate about **Data Science, Machine Learning, and Artificial Intelligence**.
 
-I enjoy building practical solutions that turn data and machine learning models into useful real-world applications.
+I enjoy building practical solutions that transform data and AI models into useful real-world applications.
 
 * 🔭 Currently focusing on **Data Science & Machine Learning**
 * 🧠 Interested in **Computer Vision, NLP, and AI applications**
-* 🐍 Main programming language: **Python**
-* 🌱 Continuously learning and improving my skills in **ML, MLOps, and Cloud technologies**
-* 📂 Explore my projects: [**Portfolio**](https://moohamedmahmoud.github.io/Mini-Portfolio/)
+* 🐍 Primarily working with **Python**
+* 🌱 Currently exploring **MLOps, Cloud, and Model Deployment**
+* 🌐 Portfolio: [**mini-portfolio**](https://moohamedmahmoud.github.io/Mini-Portfolio/)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
@@ -63,23 +63,23 @@ I enjoy building practical solutions that turn data and machine learning models 
 
 An educational analytics platform designed to help instructors understand student engagement in real time.
 
-**Features include:**
+**Highlights**
 
 * 🎭 Real-time emotion recognition
 * ✋ Hand gesture detection
 * 👀 Gaze tracking
 * 📊 Instructor analytics dashboard
-* ⚡ Real-time communication and updates
+* ⚡ Real-time communication
 
-**Technologies:** Python, PyTorch, OpenCV, Flask, ASP.NET Core, SignalR, SQL Server
+**Stack:** Python · PyTorch · OpenCV · Flask · ASP.NET Core · SignalR · SQL Server
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_NEW_USERNAME&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NEW_USERNAME&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moohamedmahmoud&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moohamedmahmoud&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -87,10 +87,10 @@ An educational analytics platform designed to help instructors understand studen
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/mohamed-mahmoud-elsayed">
+  <a href="https://www.linkedin.com/in/mohamed-mahmoud-elsayed">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
   </a>
-  <a href="https://kaggle.com/mahamedmahmoud">
+  <a href="https://www.kaggle.com/mahamedmahmoud">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="32" height="32" alt="Kaggle"/>
   </a>
   <a href="mailto:moh.mahmooud2@gmail.com">
@@ -98,12 +98,8 @@ An educational analytics platform designed to help instructors understand studen
   </a>
 </p>
 
----
-
-### 📫 Contact
-
-**Email:** (mailto:moh.mahmooud2@gmail.com)
-**Portfolio:** https://moohamedmahmoud.github.io/Mini-Portfolio/
+📫 **Email:** [moh.mahmooud2@gmail.com](mailto:moh.mahmooud2@gmail.com)
+🌐 **Portfolio:** [mini-portfolio](https://moohamedmahmoud.github.io/Mini-Portfolio/)
 
 ---
 
