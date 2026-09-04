@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Mahmoud
 
-### Data Science & Machine Learning Enthusiast | Computer Science Graduate | Python Developer
+### Data Science & Machine Learning Enthusiast | Computer Science Graduate
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=moohamedmahmoud&label=Profile%20Views&style=flat-square" alt="Profile Views" />
@@ -72,15 +72,6 @@ An educational analytics platform designed to help instructors understand studen
 * ⚡ Real-time communication
 
 **Stack:** Python · PyTorch · OpenCV · Flask · ASP.NET Core · SignalR · SQL Server
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moohamedmahmoud&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moohamedmahmoud&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
