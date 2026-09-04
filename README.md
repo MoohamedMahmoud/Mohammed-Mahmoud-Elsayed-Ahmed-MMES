@@ -1,30 +1,110 @@
-<img src="https://camo.githubusercontent.com/da8f09b86d94233af79db423443aed85531893132c2bb0ec95c96ae94cddb755/68747470733a2f2f7777772e6d79776562776f726c642e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f7765622d64657369676e2d6b6572616c612e676966" alt="MasterHead" data-canonical-src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&amp;token=91c0c7b2-93c3-4029-b011-1a8703c5730d" style="max-width: 100%; display: inline-block; align: center;" data-target="animated-image.originalImage" ></img>
-<h1 align="center">Hi 👋, I'm Mohammed Mahmoud</h1>
-<h3 align="center">A passionate Data Scientist ,and frontend developer from Egypt</h3>
+# 👋 Hi, I'm Mohammed Mahmoud
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-mahmoud-elsayed-ahmed-mmes&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-mahmoud-elsayed-ahmed-mmes" /> </p>
+### Data Science & Machine Learning Enthusiast | Computer Science Graduate | Python Developer
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"></img>
-
-- 🌱 I’m currently learning **Data Science and Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://mini-portfolio-mo.netlify.app/](https://mini-portfolio-mo.netlify.app/)
-
-- 📫 How to reach me **mohamedmahmoud2022.333@gmail.com**
-
-- ⚡ Fun fact **I'm funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed mahmoud" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/mahamedmahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamed mahmoud el-sayed ahmed" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/super_moo_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="super_moo_s" height="30" width="40" /></a>
-<a href="https://discord.gg/Mohmed ~MMES~" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mohmed ~MMES~" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_NEW_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-mahmoud-elsayed-ahmed-mmes&show_icons=true&locale=en&layout=compact" alt="mohammed-mahmoud-elsayed-ahmed-mmes" /></p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-mahmoud-elsayed-ahmed-mmes&show_icons=true&locale=en" alt="mohammed-mahmoud-elsayed-ahmed-mmes" /></p>
+I'm a Computer Science graduate with a strong interest in **Data Science, Machine Learning, and AI**.
+
+I enjoy building practical solutions that turn data and machine learning models into useful real-world applications.
+
+* 🔭 Currently focusing on **Data Science & Machine Learning**
+* 🧠 Interested in **Computer Vision, NLP, and AI applications**
+* 🐍 Main programming language: **Python**
+* 🌱 Continuously learning and improving my skills in **ML, MLOps, and Cloud technologies**
+* 📂 Explore my projects: [**Portfolio**](https://moohamedmahmoud.github.io/Mini-Portfolio/)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+</p>
+
+### Data Science & AI
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/>
+</p>
+
+### Development & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### EduVision
+
+An educational analytics platform designed to help instructors understand student engagement in real time.
+
+**Features include:**
+
+* 🎭 Real-time emotion recognition
+* ✋ Hand gesture detection
+* 👀 Gaze tracking
+* 📊 Instructor analytics dashboard
+* ⚡ Real-time communication and updates
+
+**Technologies:** Python, PyTorch, OpenCV, Flask, ASP.NET Core, SignalR, SQL Server
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_NEW_USERNAME&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NEW_USERNAME&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="www.linkedin.com/in/mohamed-mahmoud-elsayed">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
+  </a>
+  <a href="https://kaggle.com/mahamedmahmoud">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="32" height="32" alt="Kaggle"/>
+  </a>
+  <a href="mailto:moh.mahmooud2@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="32" height="32" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### 📫 Contact
+
+**Email:** (mailto:moh.mahmooud2@gmail.com)
+**Portfolio:** https://moohamedmahmoud.github.io/Mini-Portfolio/
+
+---
+
+> *Always learning. Always building.*
