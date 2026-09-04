@@ -18,7 +18,7 @@ I enjoy building practical solutions that transform data and AI models into usef
 * 🧠 Interested in **Computer Vision, NLP, and AI applications**
 * 🐍 Primarily working with **Python**
 * 🌱 Currently exploring **MLOps, Cloud, and Model Deployment**
-* 🌐 Portfolio: [**mini-portfolio**](https://moohamedmahmoud.github.io/Mini-Portfolio/)
+* 🌐 Portfolio: [**portfolio**](https://moohamedmahmoud.github.io/Mini-Portfolio/)
 
 ---
 
@@ -99,7 +99,8 @@ An educational analytics platform designed to help instructors understand studen
 </p>
 
 📫 **Email:** [moh.mahmooud2@gmail.com](mailto:moh.mahmooud2@gmail.com)
-🌐 **Portfolio:** [mini-portfolio](https://moohamedmahmoud.github.io/Mini-Portfolio/)
+
+🌐 **Portfolio:** [portfolio](https://moohamedmahmoud.github.io/Mini-Portfolio/)
 
 ---
 
